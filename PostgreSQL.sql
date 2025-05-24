@@ -1,0 +1,4 @@
+/*
+Start
+*/
+SELECT CURRENT_DATE, CURRENT_TIME, NOW();
