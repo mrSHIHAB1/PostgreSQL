@@ -19,7 +19,7 @@ It is known for reliability, feature robustness, and performance, making it a po
 
 ---
 
-## 🧠 What is the purpose of a database schema in PostgreSQL?
+## 🧠 Purpose of a database schema in PostgreSQL.
 
 A **schema** in PostgreSQL is a namespace that contains named database objects such as tables, views, indexes, data types, functions, and operators.
 
@@ -41,7 +41,7 @@ CREATE TABLE wildlife.animals (
 
 ---
 
-## 🔑 . Explain the Primary Key and  Foreign Key Foreign Key concepts in PostgreSQL.
+## 🔑 . The Primary Key and  Foreign Key Foreign Key concepts in PostgreSQL.
 
 ### **Primary Key**
 
@@ -72,7 +72,7 @@ CREATE TABLE enrollments (
 
 ---
 
-## 🗂️. Explain the GROUP BY clause and its role in aggregation operations.
+## 🗂️. GROUP BY clause and its role in aggregation operations.
 
 The `GROUP BY` clause groups rows that have the same values in specified columns into summary rows. It is used in combination with aggregate functions like `COUNT()`, `SUM()`, `AVG()`, etc.
 
@@ -91,7 +91,7 @@ GROUP BY department;
 
 ---
 
-## 📊. How can you calculate aggregate functions like COUNT(), SUM(), and AVG() in PostgreSQL?
+## 📊. Some Aggregate functions like COUNT(), SUM(), and AVG() in PostgreSQL.
 
 Aggregate functions perform a calculation on a set of values and return a single value.
 
