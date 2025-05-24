@@ -115,5 +115,5 @@ These functions are especially powerful when combined with `GROUP BY` to analyze
 
 ---
 
-Feel free to extend this README with visuals, advanced operations, or PostgreSQL performance tuning tips!
+
 
